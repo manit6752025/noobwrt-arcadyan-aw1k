@@ -16,14 +16,14 @@ Security support for development builds may depend on the severity of the issue 
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-For vulnerabilities affecting QuantumGrid OS, please use GitHub's private security reporting mechanism:
+For vulnerabilities affecting Noobwrt, please use GitHub's private security reporting mechanism:
 
 **GitHub → Security → Advisories → Report a vulnerability**
 
 When reporting an issue, please include:
 
 * A clear description of the vulnerability
-* The affected QuantumGrid OS version or commit
+* The affected Noobwrt version or commit
 * The affected component or package
 * Steps required to reproduce the issue
 * Any relevant logs, configuration, screenshots, or proof-of-concept information
@@ -43,7 +43,7 @@ We will make a reasonable effort to:
 5. Release or document the appropriate mitigation.
 6. Publish a security advisory when disclosure is appropriate.
 
-Response and remediation times may vary depending on the severity, complexity, affected hardware, and whether the issue involves QuantumGrid code or an upstream dependency.
+Response and remediation times may vary depending on the severity, complexity, affected hardware, and whether the issue involves Noobwrt code or an upstream dependency.
 
 ## Scope
 
@@ -56,7 +56,7 @@ Security reports may include vulnerabilities in:
 * SSH and management controls
 * Management ACLs
 * Network security components
-* QuantumGrid packages
+* Noobwrt packages
 * Firmware/build integration
 * Wi-Fi configuration and management
 * Cellular/5G management
